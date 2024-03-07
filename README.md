@@ -1,5 +1,5 @@
-1.We created a advenced java project using servlet Jsp.
-2.we means Arindol Ghosh and suraj Goswami created this project.
+1.I,Arindol Ghosh, created a advenced java project using servlet Jsp.
+
 
 
 
